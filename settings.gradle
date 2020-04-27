@@ -1,0 +1,3 @@
+rootProject.name='SensorUtilExample'
+include ':app'
+include ':sensorutil'
